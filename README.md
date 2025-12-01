@@ -1,4 +1,8 @@
-# 🧩 Duplicate Finder Dashboard
+<p align="center">
+  <img src="./frontend/public/duplicate_py.jpg" alt="Duplicate Finder" width="600" />
+</p>
+
+## 🧩 Duplicate Finder Dashboard
 
 > **A smart, time-saving data cleaning tool designed for educational institutions like Parul University to automatically detect and remove duplicate student entries in Excel files.**
 
