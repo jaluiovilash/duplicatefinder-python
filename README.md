@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./frontend/public/duplicate_py.jpg" alt="Duplicate Finder" width="600" />
+  <img src="./frontend/public/duplicate_py.jpg" alt="Duplicate Finder" width="auto" />
 </p>
 
 ## 🧩 Duplicate Finder Dashboard
